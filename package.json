@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aniket Thapa and Mayank Verma",
+  "author": "Aniket Thapa & Mayank Verma",
   "license": "ISC",
   "description": "",
   "dependencies": {
